@@ -6,7 +6,7 @@
   display: "flex";
   background-color: black;
   color: white;
-  font-family: "Arial", sans-serif;
+  font-family:"cursive"
 
 }
 .Projects{
@@ -14,27 +14,27 @@
     color: white;
     margin-left:"6%";
     margin-top: "10%";
-    font-family: Arial, Helvetica, sans-serif;
+    font-family:"cursive"
 }
 .Contact{
     background-color: black;
   color: white;
   margin-left:"6%";
   margin-top: "10%";
-      font-family: Arial, Helvetica, sans-serif;
+      font-family:"cursive";
 }
 p{
   font-size: 20px;
   color: white;
   max-width: 55%;
-      font-family: Arial, Helvetica, sans-serif;
+    font-family:"cursive"
 }
 .Skills{
   background-color: black;
   color: white;
   margin-left:"6%";
   margin-top: "10%";
-    font-family: Arial, Helvetica, sans-serif;
+font-family:"cursive"
 }
 ul{
   font-size: 20px;
